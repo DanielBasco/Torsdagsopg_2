@@ -7,7 +7,7 @@ println(month+" har 31 dage");
 break;
 
 case "Februar":
-println(month+" har 30 dage");
+println(month+" har 29 dage");
 break;
 
 case "Marts": 
